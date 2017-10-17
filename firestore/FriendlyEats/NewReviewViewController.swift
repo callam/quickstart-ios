@@ -15,7 +15,6 @@
 //
 
 import UIKit
-import FirebaseFirestore
 import FirebaseAuth
 
 class NewReviewViewController: UIViewController, UITextFieldDelegate {
